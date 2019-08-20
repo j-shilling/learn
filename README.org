@@ -10,8 +10,6 @@
 
 ** Commands
 
-*** ~learn-submit~ runs ~learn submit~
-
-*** ~learn-test~ runs ~learn test~
-
-*** ~learn-test-fail-fast~ runs ~learn test --fail-fast~
+ * ~learn-submit~ runs ~learn submit~
+ * ~learn-test~ runs ~learn test~
+ * ~learn-test-fail-fast~ runs ~learn test --fail-fast~
