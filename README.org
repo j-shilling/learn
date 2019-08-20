@@ -1,0 +1,17 @@
+#+title: learn.el README
+#+author: Jake Shilling
+#+email: shilling.jake@gmail.com
+#+language: en
+
+
+* =learn.el=
+
+=learn.el= is a package to help run [[https://github.com/learn-co/learn-co][learn-co]] commands from Emacs.
+
+** Commands
+
+*** ~learn-submit~ runs ~learn submit~
+
+*** ~learn-test~ runs ~learn test~
+
+*** ~learn-test-fail-fast~ runs ~learn test --fail-fast~
